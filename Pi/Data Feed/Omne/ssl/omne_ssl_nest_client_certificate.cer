@@ -1,0 +1,64 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4096 (0x1000)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IN, ST=Karnataka, O=Thomson Reuters, L=Bangalore, CN=Thomson Reuters, OU=IT/emailAddress=systems.omnesysindia@thomsonreuters.com
+        Validity
+            Not Before: Mar 28 09:22:24 2016 GMT
+            Not After : Mar 23 09:22:24 2017 GMT
+        Subject: C=IN, ST=KARNATAKA, L=BANGALORE, O=Zerodha Commodities Private Limited, OU=IT, CN=Zerodha Commodities Private Limited/emailAddress=nithin@zerodha.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a5:b5:6c:ce:7a:dc:24:57:58:74:f4:d3:81:f9:
+                    c5:6c:3e:46:8e:57:b0:5f:8f:7f:86:bc:c5:2d:04:
+                    e1:a3:2c:2e:a8:98:17:06:08:26:70:38:46:34:b3:
+                    aa:e1:79:90:8d:40:1f:fd:10:07:c2:d2:70:1f:bf:
+                    c3:2f:af:74:0f:aa:aa:2b:44:35:fe:0f:f6:ed:c9:
+                    31:78:cd:86:c7:19:41:34:66:36:d7:3f:2e:9e:38:
+                    dd:71:c9:62:7f:f3:b2:ec:35:9c:8c:94:85:c4:fd:
+                    fb:da:e4:4b:cb:25:1f:58:ab:78:d0:3b:63:17:9e:
+                    57:4c:69:44:40:cc:06:0d:c1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D7:44:32:9B:E8:4F:1D:20:02:A2:3A:83:EA:E1:1B:69:1A:89:CB:F1
+            X509v3 Authority Key Identifier: 
+                keyid:07:3B:9E:4D:CF:30:50:9D:3B:DC:07:AD:83:67:12:FF:17:A9:C3:EC
+
+    Signature Algorithm: sha1WithRSAEncryption
+         2c:73:bd:dc:f9:9c:94:e5:2b:91:10:e5:93:49:fb:6d:e2:28:
+         ee:a4:f8:d6:aa:1f:35:15:b3:90:23:77:e2:c0:7e:0a:e1:25:
+         a4:64:e2:c8:0b:9a:26:45:05:93:ed:6c:e7:1f:6c:67:3a:b4:
+         32:d1:35:b1:7a:7c:ad:9e:2d:8a:cf:76:46:69:9b:56:e1:2e:
+         ca:a8:d4:09:d5:48:40:0c:68:69:d0:03:e9:a0:44:2f:e3:af:
+         2c:6b:9d:4d:a9:96:f3:e7:74:f3:16:f2:e1:dc:58:84:90:3e:
+         a5:e1:75:98:94:a3:a4:36:fb:13:2c:b9:81:7e:0c:81:04:56:
+         9e:f9
+-----BEGIN CERTIFICATE-----
+MIIDYzCCAsygAwIBAgICEAAwDQYJKoZIhvcNAQEFBQAwga4xCzAJBgNVBAYTAklO
+MRIwEAYDVQQIDAlLYXJuYXRha2ExGDAWBgNVBAoMD1Rob21zb24gUmV1dGVyczES
+MBAGA1UEBwwJQmFuZ2Fsb3JlMRgwFgYDVQQDDA9UaG9tc29uIFJldXRlcnMxCzAJ
+BgNVBAsMAklUMTYwNAYJKoZIhvcNAQkBFidzeXN0ZW1zLm9tbmVzeXNpbmRpYUB0
+aG9tc29ucmV1dGVycy5jb20wHhcNMTYwMzI4MDkyMjI0WhcNMTcwMzIzMDkyMjI0
+WjCBwTELMAkGA1UEBhMCSU4xEjAQBgNVBAgMCUtBUk5BVEFLQTESMBAGA1UEBwwJ
+QkFOR0FMT1JFMSwwKgYDVQQKDCNaZXJvZGhhIENvbW1vZGl0aWVzIFByaXZhdGUg
+TGltaXRlZDELMAkGA1UECwwCSVQxLDAqBgNVBAMMI1plcm9kaGEgQ29tbW9kaXRp
+ZXMgUHJpdmF0ZSBMaW1pdGVkMSEwHwYJKoZIhvcNAQkBFhJuaXRoaW5AemVyb2Ro
+YS5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKW1bM563CRXWHT004H5
+xWw+Ro5XsF+Pf4a8xS0E4aMsLqiYFwYIJnA4RjSzquF5kI1AH/0QB8LScB+/wy+v
+dA+qqitENf4P9u3JMXjNhscZQTRmNtc/Lp443XHJYn/zsuw1nIyUhcT9+9rkS8sl
+H1ireNA7YxeeV0xpREDMBg3BAgMBAAGjezB5MAkGA1UdEwQCMAAwLAYJYIZIAYb4
+QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBTX
+RDKb6E8dIAKiOoPq4RtpGonL8TAfBgNVHSMEGDAWgBQHO55NzzBQnTvcB62DZxL/
+F6nD7DANBgkqhkiG9w0BAQUFAAOBgQAsc73c+ZyU5SuREOWTSftt4ijupPjWqh81
+FbOQI3fiwH4K4SWkZOLIC5omRQWT7WznH2xnOrQy0TWxenytni2Kz3ZGaZtW4S7K
+qNQJ1UhADGhp0APpoEQv468sa51NqZbz53TzFvLh3FiEkD6l4XWYlKOkNvsTLLmB
+fgyBBFae+Q==
+-----END CERTIFICATE-----
